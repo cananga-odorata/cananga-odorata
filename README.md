@@ -157,7 +157,7 @@ Cost & FinOps      → Graviton vs x86, Spot Instances, Serverless
 
 **My Principle**
 
-> *ตั้งคำถามที่ถูกต้อง → หา Doc ที่น่าเชื่อถือ → ทำความเข้าใจ → ทดลอง → บันทึก*
+> *ตั้งคำถามที่ถูกต้อง → หาคำตอบสำหรับคำถาม → เรียนรู้ปรับปรุง → ทำซ้ำ* 
 
 <img src="https://media.tenor.com/YSzBJZA8P0cAAAAi/cat-black.gif" width="60"/>
 
