@@ -52,9 +52,5 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bun](https://img.shields.io/badge/-Bun-000?style=flat-square&logo=bun&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
----
-
----
 <div align="center">
 </div>
